@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38060'
     url: http://www.gutenberg.org/2009/agents/38060
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36051#Colors-of-LifePoems-and-Songs-and-Sonnets
 gutenberg_issued: '2011-05-07'
 gutenberg_type: Text
 identifiers:
